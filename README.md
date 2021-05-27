@@ -1,16 +1,33 @@
-### Hi there 👋
+![linea](http://treefactory.com.ar/images/line2.png)
+# 👋 Hola! Soy Eze
+---
+## Soy Ingeniero en Informática. 💻
 
-<!--
-**ezeparziale/ezeparziale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me dedico al mundo de datos, trabajo de data engineer.
 
-Here are some ideas to get you started:
+Un poco de todo:
+* Python 🐍
+* Data pipelines
+* Cloud apps
+* Data science 👨‍🔬
+* Machine Learning 👨‍💻
+* AI 🤖
+* Blockchain ⛓️
+* Business Intelligence 📊
+* Android apps 📱
+* Entre otras...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+Mis hobbies son los deportes extremos 🏍️ y los videos juegos 🎮.  
+Escucho música de cualquier género🎵. 
+
+
+![linea](http://treefactory.com.ar/images/line2.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeparziale&show_icons=true&theme=dracula)
+
+![linea](http://treefactory.com.ar/images/line2.png)
+
+Contacto:
+Twitter: @ezeparziale  
+Linkedin: *[@ezequielparziale](https://www.linkedin.com/in/ezequielparziale/)*.
