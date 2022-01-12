@@ -5,12 +5,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=2867B2)](http://www.linkedin.com/in/ezequielparziale)
 [![DockerHub Badge](https://img.shields.io/badge/dockerhub-images-important.svg?style=flat-square&logo=docker&logoColor=white&color=0db7ed)](https://hub.docker.com/u/ezeparziale)
 
-
-## 💻 Soy Ingeniero en Informática
-
+💻 Soy Ingeniero en Informática.
 Me dedico al mundo de datos, trabajo de data engineer.
 
-Un poco de todo:
+## 🤹 Skills
 
 - 🐍 Python
 - 📦 Data pipelines
@@ -22,7 +20,7 @@ Un poco de todo:
 - 📊 Business Intelligence 
 - 📱 Mobile apps 
   
-Mis hobbies:
+## 🕹️ Hobbies
 
 - 🏍️ Deportes extremos
 - 🎮 Videos juegos
