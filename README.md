@@ -1,6 +1,4 @@
 # 👋 Hola! Soy Eze
-[![Visits Badge](https://badges.pufler.dev/visits/ezeparziale/ezeparziale?style=flat-square)]()
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/ezeparziale?style=flat-square)]()
 [![Twitter Badge](https://img.shields.io/badge/twitter-profile-white?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ezeparziale)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=2867B2)](http://www.linkedin.com/in/ezequielparziale)
 [![DockerHub Badge](https://img.shields.io/badge/dockerhub-images-important.svg?style=flat-square&logo=docker&logoColor=white&color=0db7ed)](https://hub.docker.com/u/ezeparziale)
